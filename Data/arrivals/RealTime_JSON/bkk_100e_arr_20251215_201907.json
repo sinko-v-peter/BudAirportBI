@@ -1,0 +1,1157 @@
+{
+  "currentTime": 1765826348778,
+  "version": 2,
+  "status": "OK",
+  "code": 200,
+  "text": "OK",
+  "data": {
+    "limitExceeded": false,
+    "entry": {
+      "stopId": "BKK_F00950",
+      "routeIds": [
+        "BKK_1005",
+        "BKK_9090",
+        "BKK_9091",
+        "BKK_9140",
+        "BKK_9141",
+        "BKK_9160",
+        "BKK_9310",
+        "BKK_9311",
+        "BKK_9340",
+        "BKK_9500",
+        "BKK_9501",
+        "BKK_9732",
+        "BKK_9790",
+        "BKK_9791",
+        "BKK_9900"
+      ],
+      "alertIds": [],
+      "nearbyStopIds": [],
+      "stopTimes": [
+        {
+          "stopHeadsign": "Liszt Ferenc Airport 2",
+          "departureTime": 1765826400,
+          "predictedDepartureTime": 1765826400,
+          "stopSequence": 0,
+          "tripId": "BKK_D078977757",
+          "serviceDate": "20251215",
+          "wheelchairAccessible": true,
+          "mayRequireBooking": false,
+          "canceled": false,
+          "alertIds": [],
+          "pickupAllowed": true,
+          "dropOffAllowed": false
+        },
+        {
+          "stopHeadsign": "Liszt Ferenc Airport 2",
+          "departureTime": 1765827300,
+          "stopSequence": 0,
+          "tripId": "BKK_D078976802",
+          "serviceDate": "20251215",
+          "wheelchairAccessible": true,
+          "mayRequireBooking": false,
+          "canceled": false,
+          "alertIds": [],
+          "pickupAllowed": true,
+          "dropOffAllowed": false
+        },
+        {
+          "stopHeadsign": "Liszt Ferenc Airport 2",
+          "departureTime": 1765828200,
+          "stopSequence": 0,
+          "tripId": "BKK_D078976808",
+          "serviceDate": "20251215",
+          "wheelchairAccessible": true,
+          "mayRequireBooking": false,
+          "canceled": false,
+          "alertIds": [],
+          "pickupAllowed": true,
+          "dropOffAllowed": false
+        },
+        {
+          "stopHeadsign": "Liszt Ferenc Airport 2",
+          "departureTime": 1765829100,
+          "stopSequence": 0,
+          "tripId": "BKK_D078976826",
+          "serviceDate": "20251215",
+          "wheelchairAccessible": true,
+          "mayRequireBooking": false,
+          "canceled": false,
+          "alertIds": [],
+          "pickupAllowed": true,
+          "dropOffAllowed": false
+        }
+      ]
+    },
+    "references": {
+      "agencies": {
+        "BKK_BKK": {
+          "id": "BKK_BKK",
+          "name": "BKK",
+          "url": "http://www.bkk.hu",
+          "timezone": "Europe/Budapest",
+          "lang": "hu",
+          "phone": "+36 1 3 255 255"
+        }
+      },
+      "routes": {
+        "BKK_9500": {
+          "id": "BKK_9500",
+          "shortName": "950",
+          "description": "Rákospalota, Kossuth utca | Pestszentimre vasútáll.",
+          "type": "BUS",
+          "color": "000000",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "950",
+          "bikesAllowed": false,
+          "style": {
+            "color": "000000",
+            "icon": {
+              "type": "BOX",
+              "text": "950",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "night-bus",
+              "color": "1E1E1E",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 6
+          },
+          "sortOrder": 409
+        },
+        "BKK_3480": {
+          "id": "BKK_3480",
+          "shortName": "48",
+          "description": "Deák Ferenc tér M / Savoya Park",
+          "type": "TRAM",
+          "color": "FFD800",
+          "textColor": "000000",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "48",
+          "bikesAllowed": false,
+          "style": {
+            "color": "FFD800",
+            "icon": {
+              "type": "BOX",
+              "text": "48",
+              "textColor": "000000"
+            },
+            "vehicleIcon": {
+              "name": "tram",
+              "color": "FFD800",
+              "secondaryColor": "000000"
+            },
+            "groupId": 3
+          },
+          "sortOrder": 36
+        },
+        "BKK_0090": {
+          "id": "BKK_0090",
+          "shortName": "9",
+          "description": "Kőbánya alsó vasútáll. | Óbuda, Bogdáni út",
+          "type": "BUS",
+          "color": "009EE3",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "9",
+          "bikesAllowed": false,
+          "style": {
+            "color": "009EE3",
+            "icon": {
+              "type": "BOX",
+              "text": "9",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "bus",
+              "color": "009EE3",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 5
+          },
+          "sortOrder": 93
+        },
+        "BKK_5100": {
+          "id": "BKK_5100",
+          "shortName": "M1",
+          "description": "Mexikói út | Vörösmarty tér",
+          "type": "SUBWAY",
+          "color": "FFD800",
+          "textColor": "000000",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "CIRCLE",
+          "iconDisplayText": "1",
+          "bikesAllowed": false,
+          "style": {
+            "color": "FFD800",
+            "stop": {
+              "colors": [
+                "777777"
+              ],
+              "type": "PRIORITY",
+              "image": "route-icon-M1"
+            },
+            "icon": {
+              "type": "CIRCLE",
+              "text": "1",
+              "textColor": "000000"
+            },
+            "vehicleIcon": {
+              "name": "subway"
+            },
+            "groupId": 1
+          },
+          "sortOrder": 0
+        },
+        "BKK_9900": {
+          "id": "BKK_9900",
+          "shortName": "990",
+          "description": "Rákoskert | Normafa",
+          "type": "BUS",
+          "color": "000000",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "990",
+          "bikesAllowed": false,
+          "style": {
+            "color": "000000",
+            "icon": {
+              "type": "BOX",
+              "text": "990",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "night-bus",
+              "color": "1E1E1E",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 6
+          },
+          "sortOrder": 426
+        },
+        "BKK_5300": {
+          "id": "BKK_5300",
+          "shortName": "M3",
+          "description": "Kőbánya-Kispest | Újpest-központ",
+          "type": "SUBWAY",
+          "color": "005CA5",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "CIRCLE",
+          "iconDisplayText": "3",
+          "bikesAllowed": false,
+          "style": {
+            "color": "005CA5",
+            "stop": {
+              "colors": [
+                "777777"
+              ],
+              "type": "PRIORITY",
+              "image": "route-icon-M3"
+            },
+            "icon": {
+              "type": "CIRCLE",
+              "text": "3",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "subway"
+            },
+            "groupId": 1
+          },
+          "sortOrder": 2
+        },
+        "BKK_5200": {
+          "id": "BKK_5200",
+          "shortName": "M2",
+          "description": "Örs vezér tere | Déli pályaudvar",
+          "type": "SUBWAY",
+          "color": "E41F18",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "CIRCLE",
+          "iconDisplayText": "2",
+          "bikesAllowed": false,
+          "style": {
+            "color": "E41F18",
+            "stop": {
+              "colors": [
+                "777777"
+              ],
+              "type": "PRIORITY",
+              "image": "route-icon-M2"
+            },
+            "icon": {
+              "type": "CIRCLE",
+              "text": "2",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "subway"
+            },
+            "groupId": 1
+          },
+          "sortOrder": 1
+        },
+        "BKK_1780": {
+          "id": "BKK_1780",
+          "shortName": "178",
+          "description": "Naphegy tér | Deák Ferenc tér M",
+          "type": "BUS",
+          "color": "009EE3",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "178",
+          "bikesAllowed": false,
+          "style": {
+            "color": "009EE3",
+            "icon": {
+              "type": "BOX",
+              "text": "178",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "bus",
+              "color": "009EE3",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 5
+          },
+          "sortOrder": 268
+        },
+        "BKK_9501": {
+          "id": "BKK_9501",
+          "shortName": "950A",
+          "description": "Rákospalota, Kossuth utca | Szarvas csárda tér",
+          "type": "BUS",
+          "color": "000000",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "950A",
+          "bikesAllowed": false,
+          "style": {
+            "color": "000000",
+            "icon": {
+              "type": "BOX",
+              "text": "950A",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "night-bus",
+              "color": "1E1E1E",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 6
+          },
+          "sortOrder": 410
+        },
+        "BKK_9140": {
+          "id": "BKK_9140",
+          "shortName": "914",
+          "description": "Káp.megyer, Mogyoródi-p. | Dél-pesti autóbuszgarázs",
+          "type": "BUS",
+          "color": "000000",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "914",
+          "bikesAllowed": false,
+          "style": {
+            "color": "000000",
+            "icon": {
+              "type": "BOX",
+              "text": "914",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "night-bus",
+              "color": "1E1E1E",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 6
+          },
+          "sortOrder": 388
+        },
+        "BKK_9161": {
+          "id": "BKK_9161",
+          "shortName": "916A",
+          "description": "Deák Ferenc tér M / Széll Kálmán tér M",
+          "type": "BUS",
+          "color": "000000",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "916A",
+          "bikesAllowed": false,
+          "style": {
+            "color": "000000",
+            "icon": {
+              "type": "BOX",
+              "text": "916A",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "night-bus",
+              "color": "1E1E1E",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 6
+          },
+          "sortOrder": 392
+        },
+        "BKK_9160": {
+          "id": "BKK_9160",
+          "shortName": "916",
+          "description": "Uránia | Széll Kálmán tér M",
+          "type": "BUS",
+          "color": "000000",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "916",
+          "bikesAllowed": false,
+          "style": {
+            "color": "000000",
+            "icon": {
+              "type": "BOX",
+              "text": "916",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "night-bus",
+              "color": "1E1E1E",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 6
+          },
+          "sortOrder": 391
+        },
+        "BKK_F3470": {
+          "id": "BKK_F3470",
+          "shortName": "47❆",
+          "description": "Városház tér | Deák Ferenc tér M",
+          "type": "TRAM",
+          "color": "FFD800",
+          "textColor": "000000",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "47❆",
+          "bikesAllowed": false,
+          "style": {
+            "color": "FFD800",
+            "icon": {
+              "type": "BOX",
+              "text": "47❆",
+              "textColor": "000000"
+            },
+            "vehicleIcon": {
+              "name": "tram",
+              "color": "FFD800",
+              "secondaryColor": "000000"
+            },
+            "groupId": 3
+          },
+          "sortOrder": 35
+        },
+        "BKK_9340": {
+          "id": "BKK_9340",
+          "shortName": "934",
+          "description": "Békásmegyer H | Nyugati pályaudvar M",
+          "type": "BUS",
+          "color": "000000",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "934",
+          "bikesAllowed": false,
+          "style": {
+            "color": "000000",
+            "icon": {
+              "type": "BOX",
+              "text": "934",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "night-bus",
+              "color": "1E1E1E",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 6
+          },
+          "sortOrder": 402
+        },
+        "BKK_F3490": {
+          "id": "BKK_F3490",
+          "shortName": "49❆",
+          "description": "Kelenföld vasútállomás M | Deák Ferenc tér M",
+          "type": "TRAM",
+          "color": "FFD800",
+          "textColor": "000000",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "49❆",
+          "bikesAllowed": false,
+          "style": {
+            "color": "FFD800",
+            "icon": {
+              "type": "BOX",
+              "text": "49❆",
+              "textColor": "000000"
+            },
+            "vehicleIcon": {
+              "name": "tram",
+              "color": "FFD800",
+              "secondaryColor": "000000"
+            },
+            "groupId": 3
+          },
+          "sortOrder": 38
+        },
+        "BKK_9141": {
+          "id": "BKK_9141",
+          "shortName": "914A",
+          "description": "Újpest-központ M / Határ út M",
+          "type": "BUS",
+          "color": "000000",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "914A",
+          "bikesAllowed": false,
+          "style": {
+            "color": "000000",
+            "icon": {
+              "type": "BOX",
+              "text": "914A",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "night-bus",
+              "color": "1E1E1E",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 6
+          },
+          "sortOrder": 389
+        },
+        "BKK_2102": {
+          "id": "BKK_2102",
+          "shortName": "210B",
+          "description": "Normafa, látogatóközpont / Gyöngyösi utca M",
+          "type": "BUS",
+          "color": "009EE3",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "210B",
+          "bikesAllowed": false,
+          "style": {
+            "color": "009EE3",
+            "icon": {
+              "type": "BOX",
+              "text": "210B",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "bus",
+              "color": "009EE3",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 5
+          },
+          "sortOrder": 292
+        },
+        "BKK_4720": {
+          "id": "BKK_4720",
+          "shortName": "72",
+          "description": "Zugló vasútállomás | Orczy tér",
+          "type": "TROLLEYBUS",
+          "color": "E41F18",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "72",
+          "bikesAllowed": false,
+          "style": {
+            "color": "E41F18",
+            "icon": {
+              "type": "BOX",
+              "text": "72",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "trolleybus",
+              "color": "E41F18",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 4
+          },
+          "sortOrder": 64
+        },
+        "BKK_2160": {
+          "id": "BKK_2160",
+          "shortName": "216",
+          "description": "Dísz tér | Deák Ferenc tér M",
+          "type": "BUS",
+          "color": "009EE3",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "216",
+          "bikesAllowed": false,
+          "style": {
+            "color": "009EE3",
+            "icon": {
+              "type": "BOX",
+              "text": "216",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "bus",
+              "color": "009EE3",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 5
+          },
+          "sortOrder": 298
+        },
+        "BKK_1050": {
+          "id": "BKK_1050",
+          "shortName": "105",
+          "description": "Gyöngyösi utca M | Apor Vilmos tér",
+          "type": "BUS",
+          "color": "009EE3",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "105",
+          "bikesAllowed": false,
+          "style": {
+            "color": "009EE3",
+            "icon": {
+              "type": "BOX",
+              "text": "105",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "bus",
+              "color": "009EE3",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 5
+          },
+          "sortOrder": 192
+        },
+        "BKK_3470": {
+          "id": "BKK_3470",
+          "shortName": "47",
+          "description": "Városház tér | Deák Ferenc tér M",
+          "type": "TRAM",
+          "color": "FFD800",
+          "textColor": "000000",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "47",
+          "bikesAllowed": false,
+          "style": {
+            "color": "FFD800",
+            "icon": {
+              "type": "BOX",
+              "text": "47",
+              "textColor": "000000"
+            },
+            "vehicleIcon": {
+              "name": "tram",
+              "color": "FFD800",
+              "secondaryColor": "000000"
+            },
+            "groupId": 3
+          },
+          "sortOrder": 34
+        },
+        "BKK_9311": {
+          "id": "BKK_9311",
+          "shortName": "931A",
+          "description": "Deák Ferenc tér M | Örs vezér tere M H",
+          "type": "BUS",
+          "color": "000000",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "931A",
+          "bikesAllowed": false,
+          "style": {
+            "color": "000000",
+            "icon": {
+              "type": "BOX",
+              "text": "931A",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "night-bus",
+              "color": "1E1E1E",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 6
+          },
+          "sortOrder": 400
+        },
+        "BKK_9310": {
+          "id": "BKK_9310",
+          "shortName": "931",
+          "description": "Árpádföld | Nyugati pu. M - Zöldmál",
+          "type": "BUS",
+          "color": "000000",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "931",
+          "bikesAllowed": false,
+          "style": {
+            "color": "000000",
+            "icon": {
+              "type": "BOX",
+              "text": "931",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "night-bus",
+              "color": "1E1E1E",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 6
+          },
+          "sortOrder": 399
+        },
+        "BKK_2100": {
+          "id": "BKK_2100",
+          "shortName": "210",
+          "description": "Gyöngyösi utca M | Svábhegy",
+          "type": "BUS",
+          "color": "009EE3",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "210",
+          "bikesAllowed": false,
+          "style": {
+            "color": "009EE3",
+            "icon": {
+              "type": "BOX",
+              "text": "210",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "bus",
+              "color": "009EE3",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 5
+          },
+          "sortOrder": 291
+        },
+        "BKK_9732": {
+          "id": "BKK_9732",
+          "shortName": "973B",
+          "description": "Deák Ferenc tér M / Újpalota, Szentmihályi út",
+          "type": "BUS",
+          "color": "000000",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "973B",
+          "bikesAllowed": false,
+          "style": {
+            "color": "000000",
+            "icon": {
+              "type": "BOX",
+              "text": "973B",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "night-bus",
+              "color": "1E1E1E",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 6
+          },
+          "sortOrder": 422
+        },
+        "BKK_0160": {
+          "id": "BKK_0160",
+          "shortName": "16",
+          "description": "Deák Ferenc tér M | Széll Kálmán tér M",
+          "type": "BUS",
+          "color": "009EE3",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "16",
+          "bikesAllowed": false,
+          "style": {
+            "color": "009EE3",
+            "icon": {
+              "type": "BOX",
+              "text": "16",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "bus",
+              "color": "009EE3",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 5
+          },
+          "sortOrder": 101
+        },
+        "BKK_9791": {
+          "id": "BKK_9791",
+          "shortName": "979A",
+          "description": "Csepel, Csillagtelep | Deák Ferenc tér M",
+          "type": "BUS",
+          "color": "000000",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "979A",
+          "bikesAllowed": false,
+          "style": {
+            "color": "000000",
+            "icon": {
+              "type": "BOX",
+              "text": "979A",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "night-bus",
+              "color": "1E1E1E",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 6
+          },
+          "sortOrder": 424
+        },
+        "BKK_9790": {
+          "id": "BKK_9790",
+          "shortName": "979",
+          "description": "Csepel, Csillagtelep | Újpalota, Nyírpalota út",
+          "type": "BUS",
+          "color": "000000",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "979",
+          "bikesAllowed": false,
+          "style": {
+            "color": "000000",
+            "icon": {
+              "type": "BOX",
+              "text": "979",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "night-bus",
+              "color": "1E1E1E",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 6
+          },
+          "sortOrder": 423
+        },
+        "BKK_3490": {
+          "id": "BKK_3490",
+          "shortName": "49",
+          "description": "Kelenföld vasútállomás M | Deák Ferenc tér M",
+          "type": "TRAM",
+          "color": "FFD800",
+          "textColor": "000000",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "49",
+          "bikesAllowed": false,
+          "style": {
+            "color": "FFD800",
+            "icon": {
+              "type": "BOX",
+              "text": "49",
+              "textColor": "000000"
+            },
+            "vehicleIcon": {
+              "name": "tram",
+              "color": "FFD800",
+              "secondaryColor": "000000"
+            },
+            "groupId": 3
+          },
+          "sortOrder": 37
+        },
+        "BKK_9091": {
+          "id": "BKK_9091",
+          "shortName": "909A",
+          "description": "Deák Ferenc tér M / Élessarok",
+          "type": "BUS",
+          "color": "000000",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "909A",
+          "bikesAllowed": false,
+          "style": {
+            "color": "000000",
+            "icon": {
+              "type": "BOX",
+              "text": "909A",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "night-bus",
+              "color": "1E1E1E",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 6
+          },
+          "sortOrder": 387
+        },
+        "BKK_F4720": {
+          "id": "BKK_F4720",
+          "shortName": "72❆",
+          "description": "Orczy tér / Zugló vasútállomás (Hermina út)",
+          "type": "TROLLEYBUS",
+          "color": "E41F18",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "72❆",
+          "bikesAllowed": false,
+          "style": {
+            "color": "E41F18",
+            "icon": {
+              "type": "BOX",
+              "text": "72❆",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "trolleybus",
+              "color": "E41F18",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 4
+          },
+          "sortOrder": 65
+        },
+        "BKK_9090": {
+          "id": "BKK_9090",
+          "shortName": "909",
+          "description": "Kispest, Kossuth tér | Deák Ferenc tér M",
+          "type": "BUS",
+          "color": "000000",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "909",
+          "bikesAllowed": false,
+          "style": {
+            "color": "000000",
+            "icon": {
+              "type": "BOX",
+              "text": "909",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "night-bus",
+              "color": "1E1E1E",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 6
+          },
+          "sortOrder": 386
+        },
+        "BKK_1005": {
+          "id": "BKK_1005",
+          "shortName": "100E",
+          "description": "Liszt Ferenc Airport 2 | Deák F. tér M (City centre)",
+          "type": "BUS",
+          "color": "009EE3",
+          "textColor": "FFFFFF",
+          "agencyId": "BKK_BKK",
+          "iconDisplayType": "BOX",
+          "iconDisplayText": "100E",
+          "bikesAllowed": false,
+          "style": {
+            "color": "009EE3",
+            "icon": {
+              "type": "BOX",
+              "text": "100E",
+              "textColor": "FFFFFF"
+            },
+            "vehicleIcon": {
+              "name": "bus",
+              "color": "009EE3",
+              "secondaryColor": "FFFFFF"
+            },
+            "groupId": 5
+          },
+          "sortOrder": 186
+        }
+      },
+      "stops": {
+        "BKK_F00950": {
+          "id": "BKK_F00950",
+          "vertex": "BKK:BKK_F00950",
+          "lat": 47.496945,
+          "lon": 19.055715,
+          "name": "Deák Ferenc tér M",
+          "localityName": "1052",
+          "code": "F00950",
+          "direction": "137",
+          "description": "3191",
+          "locationType": 0,
+          "parentStationId": "BKK_CS011732",
+          "type": "BUS",
+          "wheelchairBoarding": true,
+          "routeIds": [
+            "BKK_1005",
+            "BKK_9090",
+            "BKK_9091",
+            "BKK_9140",
+            "BKK_9141",
+            "BKK_9160",
+            "BKK_9310",
+            "BKK_9311",
+            "BKK_9340",
+            "BKK_9500",
+            "BKK_9501",
+            "BKK_9732",
+            "BKK_9790",
+            "BKK_9791",
+            "BKK_9900"
+          ],
+          "stopColorType": "BUS",
+          "style": {
+            "colors": [
+              "000000",
+              "009EE3"
+            ]
+          }
+        },
+        "BKK_CS011732": {
+          "id": "BKK_CS011732",
+          "vertex": "BKK:BKK_CS011732",
+          "lat": 47.497898,
+          "lon": 19.054306,
+          "name": "Deák Ferenc tér",
+          "localityName": "1051",
+          "code": "CS011732",
+          "direction": "",
+          "description": "}v{`Hi{hsBPBLLHTBXCXiCxOGRMNODO?yH_COKKSEW@YDWb@iADIhAeBDGrFiFVIbB?",
+          "locationType": 1,
+          "locationSubType": "stop-area",
+          "wheelchairBoarding": false,
+          "routeIds": [
+            "BKK_5100",
+            "BKK_5200",
+            "BKK_5300",
+            "BKK_3470",
+            "BKK_F3470",
+            "BKK_3480",
+            "BKK_3490",
+            "BKK_F3490",
+            "BKK_4720",
+            "BKK_F4720",
+            "BKK_0090",
+            "BKK_0160",
+            "BKK_1005",
+            "BKK_1050",
+            "BKK_1780",
+            "BKK_2100",
+            "BKK_2102",
+            "BKK_2160",
+            "BKK_9090",
+            "BKK_9091",
+            "BKK_9140",
+            "BKK_9141",
+            "BKK_9160",
+            "BKK_9161",
+            "BKK_9310",
+            "BKK_9311",
+            "BKK_9340",
+            "BKK_9500",
+            "BKK_9501",
+            "BKK_9732",
+            "BKK_9790",
+            "BKK_9791",
+            "BKK_9900"
+          ],
+          "stopColorType": "BUS",
+          "style": {
+            "colors": [
+              "FFD800",
+              "005CA5",
+              "E41F18",
+              "000000",
+              "009EE3"
+            ],
+            "type": "PRIORITY",
+            "image": "stop-icon-M1"
+          }
+        }
+      },
+      "trips": {
+        "BKK_D078976802": {
+          "id": "BKK_D078976802",
+          "routeId": "BKK_1005",
+          "shapeId": "BKK_D078976802",
+          "blockId": "D07897_1005_53_28",
+          "tripHeadsign": "Liszt Ferenc Airport 2",
+          "serviceId": "BKK_D07897AHHKMP-011",
+          "directionId": "0",
+          "bikesAllowed": false,
+          "wheelchairAccessible": true
+        },
+        "BKK_D078977757": {
+          "id": "BKK_D078977757",
+          "routeId": "BKK_1005",
+          "shapeId": "BKK_D078977757",
+          "blockId": "D07897_0205_74_12",
+          "tripHeadsign": "Liszt Ferenc Airport 2",
+          "serviceId": "BKK_D07897AHHKMP-011",
+          "directionId": "0",
+          "bikesAllowed": false,
+          "wheelchairAccessible": true
+        },
+        "BKK_D078976826": {
+          "id": "BKK_D078976826",
+          "routeId": "BKK_1005",
+          "shapeId": "BKK_D078976826",
+          "blockId": "D07897_1005_55_30",
+          "tripHeadsign": "Liszt Ferenc Airport 2",
+          "serviceId": "BKK_D07897AHHKMP-011",
+          "directionId": "0",
+          "bikesAllowed": false,
+          "wheelchairAccessible": true
+        },
+        "BKK_D078976808": {
+          "id": "BKK_D078976808",
+          "routeId": "BKK_1005",
+          "shapeId": "BKK_D078976808",
+          "blockId": "D07897_0205_71_14",
+          "tripHeadsign": "Liszt Ferenc Airport 2",
+          "serviceId": "BKK_D07897AHHKMP-011",
+          "directionId": "0",
+          "bikesAllowed": false,
+          "wheelchairAccessible": true
+        }
+      },
+      "alerts": {}
+    },
+    "class": "entryWithReferences"
+  }
+}

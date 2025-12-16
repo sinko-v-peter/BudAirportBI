@@ -1,0 +1,2615 @@
+{
+    "currentTime": 1765806710595,
+    "version": 2,
+    "status": "OK",
+    "code": 200,
+    "text": "OK",
+    "data": {
+        "list": [
+            {
+                "vehicleId": "BKK_480",
+                "stopId": "BKK_089517",
+                "stopSequence": 2,
+                "routeId": "BKK_1005",
+                "bearing": 338.0,
+                "location": {
+                    "lat": 47.49336,
+                    "lon": 19.060432
+                },
+                "serviceDate": "20251215",
+                "licensePlate": "AAMH637",
+                "label": "MAN Lions City C18 csukl\u00f3s aut\u00f3busz",
+                "deviated": false,
+                "lastUpdateTime": 1765806705,
+                "status": "IN_TRANSIT_TO",
+                "congestionLevel": null,
+                "vehicleRouteType": "BUS",
+                "stopDistancePercent": 81,
+                "wheelchairAccessible": true,
+                "tripId": "BKK_D078975697",
+                "vertex": "20251215:BKK:BKK_D078975697",
+                "style": {
+                    "icon": {
+                        "name": "bus",
+                        "color": "009EE3",
+                        "secondaryColor": "FFFFFF"
+                    }
+                }
+            },
+            {
+                "vehicleId": "BKK_483",
+                "stopId": "BKK_094505",
+                "stopSequence": 2,
+                "routeId": "BKK_1005",
+                "bearing": 129.0,
+                "location": {
+                    "lat": 47.466213,
+                    "lon": 19.126434
+                },
+                "serviceDate": "20251215",
+                "licensePlate": "AAMH640",
+                "label": "MAN Lions City C18 csukl\u00f3s aut\u00f3busz",
+                "deviated": true,
+                "lastUpdateTime": 1765806706,
+                "status": "IN_TRANSIT_TO",
+                "congestionLevel": null,
+                "vehicleRouteType": "BUS",
+                "stopDistancePercent": 28,
+                "wheelchairAccessible": true,
+                "tripId": "BKK_D078977658",
+                "vertex": "20251215:BKK:BKK_D078977658",
+                "style": {
+                    "icon": {
+                        "name": "bus",
+                        "color": "009EE3",
+                        "secondaryColor": "FFFFFF"
+                    }
+                }
+            },
+            {
+                "vehicleId": "BKK_485",
+                "stopId": "BKK_094505",
+                "stopSequence": 2,
+                "routeId": "BKK_1005",
+                "bearing": 117.0,
+                "location": {
+                    "lat": 47.481625,
+                    "lon": 19.081873
+                },
+                "serviceDate": "20251215",
+                "licensePlate": "AAMH642",
+                "label": "MAN Lions City C18 csukl\u00f3s aut\u00f3busz",
+                "deviated": false,
+                "lastUpdateTime": 1765806705,
+                "status": "IN_TRANSIT_TO",
+                "congestionLevel": null,
+                "vehicleRouteType": "BUS",
+                "stopDistancePercent": 9,
+                "wheelchairAccessible": true,
+                "tripId": "BKK_D078977664",
+                "vertex": "20251215:BKK:BKK_D078977664",
+                "style": {
+                    "icon": {
+                        "name": "bus",
+                        "color": "009EE3",
+                        "secondaryColor": "FFFFFF"
+                    }
+                }
+            },
+            {
+                "vehicleId": "BKK_486",
+                "stopId": "BKK_094505",
+                "stopSequence": 2,
+                "routeId": "BKK_1005",
+                "bearing": 269.0,
+                "location": {
+                    "lat": 47.433018,
+                    "lon": 19.262297
+                },
+                "serviceDate": "20251215",
+                "licensePlate": "AAMH643",
+                "label": "MAN Lions City C18 csukl\u00f3s aut\u00f3busz",
+                "deviated": false,
+                "lastUpdateTime": 1765806706,
+                "status": "IN_TRANSIT_TO",
+                "congestionLevel": null,
+                "vehicleRouteType": "BUS",
+                "stopDistancePercent": 99,
+                "wheelchairAccessible": true,
+                "tripId": "BKK_D078975824",
+                "vertex": "20251215:BKK:BKK_D078975824",
+                "style": {
+                    "icon": {
+                        "name": "bus",
+                        "color": "009EE3",
+                        "secondaryColor": "FFFFFF"
+                    }
+                }
+            },
+            {
+                "vehicleId": "BKK_488",
+                "routeId": "BKK_1005",
+                "bearing": 234.0,
+                "location": {
+                    "lat": 47.432827,
+                    "lon": 19.261677
+                },
+                "serviceDate": "20251215",
+                "licensePlate": "AAMH645",
+                "label": "MAN Lions City C18 csukl\u00f3s aut\u00f3busz",
+                "deviated": false,
+                "lastUpdateTime": 1765806700,
+                "status": "IN_TRANSIT_TO",
+                "congestionLevel": null,
+                "vehicleRouteType": "BUS",
+                "wheelchairAccessible": true,
+                "tripId": "BKK_D078977643",
+                "vertex": "20251215:BKK:BKK_D078977643",
+                "style": {
+                    "icon": {
+                        "name": "bus",
+                        "color": "009EE3",
+                        "secondaryColor": "FFFFFF"
+                    }
+                }
+            },
+            {
+                "vehicleId": "BKK_489",
+                "stopId": "BKK_089515",
+                "stopSequence": 1,
+                "routeId": "BKK_1005",
+                "bearing": 297.0,
+                "location": {
+                    "lat": 47.48103,
+                    "lon": 19.08375
+                },
+                "serviceDate": "20251215",
+                "licensePlate": "AAMH646",
+                "label": "MAN Lions City C18 csukl\u00f3s aut\u00f3busz",
+                "deviated": false,
+                "lastUpdateTime": 1765806699,
+                "status": "IN_TRANSIT_TO",
+                "congestionLevel": null,
+                "vehicleRouteType": "BUS",
+                "stopDistancePercent": 90,
+                "wheelchairAccessible": true,
+                "tripId": "BKK_D078975706",
+                "vertex": "20251215:BKK:BKK_D078975706",
+                "style": {
+                    "icon": {
+                        "name": "bus",
+                        "color": "009EE3",
+                        "secondaryColor": "FFFFFF"
+                    }
+                }
+            },
+            {
+                "vehicleId": "BKK_490",
+                "stopId": "BKK_094505",
+                "stopSequence": 2,
+                "routeId": "BKK_1005",
+                "bearing": 114.0,
+                "location": {
+                    "lat": 47.465775,
+                    "lon": 19.125254
+                },
+                "serviceDate": "20251215",
+                "licensePlate": "AAMH647",
+                "label": "MAN Lions City C18 csukl\u00f3s aut\u00f3busz",
+                "deviated": false,
+                "lastUpdateTime": 1765806701,
+                "status": "IN_TRANSIT_TO",
+                "congestionLevel": null,
+                "vehicleRouteType": "BUS",
+                "stopDistancePercent": 27,
+                "wheelchairAccessible": true,
+                "tripId": "BKK_D078977661",
+                "vertex": "20251215:BKK:BKK_D078977661",
+                "style": {
+                    "icon": {
+                        "name": "bus",
+                        "color": "009EE3",
+                        "secondaryColor": "FFFFFF"
+                    }
+                }
+            },
+            {
+                "vehicleId": "BKK_492",
+                "stopId": "BKK_009309",
+                "stopSequence": 3,
+                "routeId": "BKK_1005",
+                "bearing": 307.0,
+                "location": {
+                    "lat": 47.497486,
+                    "lon": 19.055706
+                },
+                "serviceDate": "20251215",
+                "licensePlate": "AAMH649",
+                "label": "MAN Lions City C18 csukl\u00f3s aut\u00f3busz",
+                "deviated": false,
+                "lastUpdateTime": 1765806684,
+                "status": "STOPPED_AT",
+                "congestionLevel": null,
+                "vehicleRouteType": "BUS",
+                "stopDistancePercent": 100,
+                "wheelchairAccessible": true,
+                "tripId": "BKK_D078975703",
+                "vertex": "20251215:BKK:BKK_D078975703",
+                "style": {
+                    "icon": {
+                        "name": "bus",
+                        "color": "009EE3",
+                        "secondaryColor": "FFFFFF"
+                    }
+                }
+            },
+            {
+                "vehicleId": "BKK_493",
+                "stopId": "BKK_089515",
+                "stopSequence": 1,
+                "routeId": "BKK_1005",
+                "bearing": 294.0,
+                "location": {
+                    "lat": 47.45288,
+                    "lon": 19.196941
+                },
+                "serviceDate": "20251215",
+                "licensePlate": "AAMH650",
+                "label": "MAN Lions City C18 csukl\u00f3s aut\u00f3busz",
+                "deviated": false,
+                "lastUpdateTime": 1765806705,
+                "status": "IN_TRANSIT_TO",
+                "congestionLevel": null,
+                "vehicleRouteType": "BUS",
+                "stopDistancePercent": 42,
+                "wheelchairAccessible": true,
+                "tripId": "BKK_D078975724",
+                "vertex": "20251215:BKK:BKK_D078975724",
+                "style": {
+                    "icon": {
+                        "name": "bus",
+                        "color": "009EE3",
+                        "secondaryColor": "FFFFFF"
+                    }
+                }
+            },
+            {
+                "vehicleId": "BKK_494",
+                "stopId": "BKK_094505",
+                "stopSequence": 2,
+                "routeId": "BKK_1005",
+                "bearing": 118.0,
+                "location": {
+                    "lat": 47.45794,
+                    "lon": 19.17632
+                },
+                "serviceDate": "20251215",
+                "licensePlate": "AAMH651",
+                "label": "MAN Lions City C18 csukl\u00f3s aut\u00f3busz",
+                "deviated": false,
+                "lastUpdateTime": 1765806697,
+                "status": "IN_TRANSIT_TO",
+                "congestionLevel": null,
+                "vehicleRouteType": "BUS",
+                "stopDistancePercent": 48,
+                "wheelchairAccessible": true,
+                "tripId": "BKK_D078975839",
+                "vertex": "20251215:BKK:BKK_D078975839",
+                "style": {
+                    "icon": {
+                        "name": "bus",
+                        "color": "009EE3",
+                        "secondaryColor": "FFFFFF"
+                    }
+                }
+            },
+            {
+                "vehicleId": "BKK_495",
+                "stopId": "BKK_089515",
+                "stopSequence": 1,
+                "routeId": "BKK_1005",
+                "bearing": 255.0,
+                "location": {
+                    "lat": 47.46218,
+                    "lon": 19.164595
+                },
+                "serviceDate": "20251215",
+                "licensePlate": "AAMH652",
+                "label": "MAN Lions City C18 csukl\u00f3s aut\u00f3busz",
+                "deviated": false,
+                "lastUpdateTime": 1765806693,
+                "status": "IN_TRANSIT_TO",
+                "congestionLevel": null,
+                "vehicleRouteType": "BUS",
+                "stopDistancePercent": 55,
+                "wheelchairAccessible": true,
+                "tripId": "BKK_D078975721",
+                "vertex": "20251215:BKK:BKK_D078975721",
+                "style": {
+                    "icon": {
+                        "name": "bus",
+                        "color": "009EE3",
+                        "secondaryColor": "FFFFFF"
+                    }
+                }
+            },
+            {
+                "vehicleId": "BKK_496",
+                "stopId": "BKK_094505",
+                "stopSequence": 2,
+                "routeId": "BKK_1005",
+                "bearing": 107.0,
+                "location": {
+                    "lat": 47.46321,
+                    "lon": 19.137175
+                },
+                "serviceDate": "20251215",
+                "licensePlate": "AAMH653",
+                "label": "MAN Lions City C18 csukl\u00f3s aut\u00f3busz",
+                "deviated": true,
+                "lastUpdateTime": 1765806710,
+                "status": "IN_TRANSIT_TO",
+                "congestionLevel": null,
+                "vehicleRouteType": "BUS",
+                "stopDistancePercent": 32,
+                "wheelchairAccessible": true,
+                "tripId": "BKK_D078975905",
+                "vertex": "20251215:BKK:BKK_D078975905",
+                "style": {
+                    "icon": {
+                        "name": "bus",
+                        "color": "009EE3",
+                        "secondaryColor": "FFFFFF"
+                    }
+                }
+            },
+            {
+                "vehicleId": "BKK_497",
+                "stopId": "BKK_089515",
+                "stopSequence": 1,
+                "routeId": "BKK_1005",
+                "bearing": 280.0,
+                "location": {
+                    "lat": 47.46237,
+                    "lon": 19.152641
+                },
+                "serviceDate": "20251215",
+                "licensePlate": "AAMH654",
+                "label": "MAN Lions City C18 csukl\u00f3s aut\u00f3busz",
+                "deviated": false,
+                "lastUpdateTime": 1765806705,
+                "status": "IN_TRANSIT_TO",
+                "congestionLevel": null,
+                "vehicleRouteType": "BUS",
+                "stopDistancePercent": 60,
+                "wheelchairAccessible": true,
+                "tripId": "BKK_D078975712",
+                "vertex": "20251215:BKK:BKK_D078975712",
+                "style": {
+                    "icon": {
+                        "name": "bus",
+                        "color": "009EE3",
+                        "secondaryColor": "FFFFFF"
+                    }
+                }
+            },
+            {
+                "vehicleId": "BKK_7433",
+                "stopId": "BKK_089515",
+                "stopSequence": 12,
+                "routeId": "BKK_1005",
+                "bearing": 297.0,
+                "location": {
+                    "lat": 47.47191,
+                    "lon": 19.108805
+                },
+                "serviceDate": "20251215",
+                "licensePlate": "RVY604",
+                "label": "MERCEDES Conecto 2 sz\u00f3l\u00f3 aut\u00f3busz",
+                "deviated": false,
+                "lastUpdateTime": 1765806705,
+                "status": "IN_TRANSIT_TO",
+                "congestionLevel": null,
+                "vehicleRouteType": "BUS",
+                "stopDistancePercent": 79,
+                "wheelchairAccessible": true,
+                "tripId": "BKK_RVY604-jUuBvUMXTIOTb3jVnJmJFA",
+                "vertex": "20251215:BKK:BKK_RVY604-jUuBvUMXTIOTb3jVnJmJFA",
+                "style": {
+                    "icon": {
+                        "name": "bus",
+                        "color": "009EE3",
+                        "secondaryColor": "FFFFFF"
+                    }
+                }
+            },
+            {
+                "vehicleId": "BKK_474",
+                "stopId": "BKK_094505",
+                "stopSequence": 2,
+                "routeId": "BKK_1005",
+                "bearing": 110.0,
+                "location": {
+                    "lat": 47.453323,
+                    "lon": 19.194633
+                },
+                "serviceDate": "20251215",
+                "licensePlate": "AAMH631",
+                "label": "MAN Lions City C18 csukl\u00f3s aut\u00f3busz",
+                "deviated": false,
+                "lastUpdateTime": 1765806699,
+                "status": "IN_TRANSIT_TO",
+                "congestionLevel": null,
+                "vehicleRouteType": "BUS",
+                "stopDistancePercent": 56,
+                "wheelchairAccessible": true,
+                "tripId": "BKK_D078977655",
+                "vertex": "20251215:BKK:BKK_D078977655",
+                "style": {
+                    "icon": {
+                        "name": "bus",
+                        "color": "009EE3",
+                        "secondaryColor": "FFFFFF"
+                    }
+                }
+            },
+            {
+                "vehicleId": "BKK_476",
+                "stopId": "BKK_089515",
+                "stopSequence": 1,
+                "routeId": "BKK_1005",
+                "bearing": 310.0,
+                "location": {
+                    "lat": 47.420555,
+                    "lon": 19.244007
+                },
+                "serviceDate": "20251215",
+                "licensePlate": "AAMH633",
+                "label": "MAN Lions City C18 csukl\u00f3s aut\u00f3busz",
+                "deviated": false,
+                "lastUpdateTime": 1765806698,
+                "status": "IN_TRANSIT_TO",
+                "congestionLevel": null,
+                "vehicleRouteType": "BUS",
+                "stopDistancePercent": 15,
+                "wheelchairAccessible": true,
+                "tripId": "BKK_D078975811",
+                "vertex": "20251215:BKK:BKK_D078975811",
+                "style": {
+                    "icon": {
+                        "name": "bus",
+                        "color": "009EE3",
+                        "secondaryColor": "FFFFFF"
+                    }
+                }
+            }
+        ],
+        "outOfRange": false,
+        "limitExceeded": false,
+        "references": {
+            "agencies": {
+                "BKK_BKK": {
+                    "id": "BKK_BKK",
+                    "name": "BKK",
+                    "url": "http://www.bkk.hu",
+                    "timezone": "Europe/Budapest",
+                    "lang": "hu",
+                    "phone": "+36 1 3 255 255"
+                }
+            },
+            "routes": {
+                "BKK_3480": {
+                    "id": "BKK_3480",
+                    "shortName": "48",
+                    "description": "De\u00e1k Ferenc t\u00e9r M / Savoya Park",
+                    "type": "TRAM",
+                    "color": "FFD800",
+                    "textColor": "000000",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "48",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "FFD800",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "48",
+                            "textColor": "000000"
+                        },
+                        "vehicleIcon": {
+                            "name": "tram",
+                            "color": "FFD800",
+                            "secondaryColor": "000000"
+                        },
+                        "groupId": 3
+                    },
+                    "sortOrder": 36
+                },
+                "BKK_9500": {
+                    "id": "BKK_9500",
+                    "shortName": "950",
+                    "description": "R\u00e1kospalota, Kossuth utca | Pestszentimre vas\u00fat\u00e1ll.",
+                    "type": "BUS",
+                    "color": "000000",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "950",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "000000",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "950",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "night-bus",
+                            "color": "1E1E1E",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 6
+                    },
+                    "sortOrder": 409
+                },
+                "BKK_0090": {
+                    "id": "BKK_0090",
+                    "shortName": "9",
+                    "description": "K\u0151b\u00e1nya als\u00f3 vas\u00fat\u00e1ll. | \u00d3buda, Bogd\u00e1ni \u00fat",
+                    "type": "BUS",
+                    "color": "009EE3",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "9",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "009EE3",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "9",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "bus",
+                            "color": "009EE3",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 5
+                    },
+                    "sortOrder": 93
+                },
+                "BKK_5100": {
+                    "id": "BKK_5100",
+                    "shortName": "M1",
+                    "description": "Mexik\u00f3i \u00fat | V\u00f6r\u00f6smarty t\u00e9r",
+                    "type": "SUBWAY",
+                    "color": "FFD800",
+                    "textColor": "000000",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "CIRCLE",
+                    "iconDisplayText": "1",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "FFD800",
+                        "stop": {
+                            "colors": [
+                                "777777"
+                            ],
+                            "type": "PRIORITY",
+                            "image": "route-icon-M1"
+                        },
+                        "icon": {
+                            "type": "CIRCLE",
+                            "text": "1",
+                            "textColor": "000000"
+                        },
+                        "vehicleIcon": {
+                            "name": "subway"
+                        },
+                        "groupId": 1
+                    },
+                    "sortOrder": 0
+                },
+                "BKK_9900": {
+                    "id": "BKK_9900",
+                    "shortName": "990",
+                    "description": "R\u00e1koskert | Normafa",
+                    "type": "BUS",
+                    "color": "000000",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "990",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "000000",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "990",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "night-bus",
+                            "color": "1E1E1E",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 6
+                    },
+                    "sortOrder": 426
+                },
+                "BKK_5300": {
+                    "id": "BKK_5300",
+                    "shortName": "M3",
+                    "description": "K\u0151b\u00e1nya-Kispest | \u00dajpest-k\u00f6zpont",
+                    "type": "SUBWAY",
+                    "color": "005CA5",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "CIRCLE",
+                    "iconDisplayText": "3",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "005CA5",
+                        "stop": {
+                            "colors": [
+                                "777777"
+                            ],
+                            "type": "PRIORITY",
+                            "image": "route-icon-M3"
+                        },
+                        "icon": {
+                            "type": "CIRCLE",
+                            "text": "3",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "subway"
+                        },
+                        "groupId": 1
+                    },
+                    "sortOrder": 2
+                },
+                "BKK_1780": {
+                    "id": "BKK_1780",
+                    "shortName": "178",
+                    "description": "Naphegy t\u00e9r | De\u00e1k Ferenc t\u00e9r M",
+                    "type": "BUS",
+                    "color": "009EE3",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "178",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "009EE3",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "178",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "bus",
+                            "color": "009EE3",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 5
+                    },
+                    "sortOrder": 268
+                },
+                "BKK_1100": {
+                    "id": "BKK_1100",
+                    "shortName": "110",
+                    "description": "R\u00e1kospatak u./Cs\u00f6m\u00f6ri \u00fat | Thom\u00e1n Istv\u00e1n utca",
+                    "type": "BUS",
+                    "color": "009EE3",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "110",
+                    "bikesAllowed": true,
+                    "style": {
+                        "color": "009EE3",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "110",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "bus",
+                            "color": "009EE3",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 5
+                    },
+                    "sortOrder": 196
+                },
+                "BKK_9501": {
+                    "id": "BKK_9501",
+                    "shortName": "950A",
+                    "description": "R\u00e1kospalota, Kossuth utca | Szarvas cs\u00e1rda t\u00e9r",
+                    "type": "BUS",
+                    "color": "000000",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "950A",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "000000",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "950A",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "night-bus",
+                            "color": "1E1E1E",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 6
+                    },
+                    "sortOrder": 410
+                },
+                "BKK_9140": {
+                    "id": "BKK_9140",
+                    "shortName": "914",
+                    "description": "K\u00e1p.megyer, Mogyor\u00f3di-p. | D\u00e9l-pesti aut\u00f3buszgar\u00e1zs",
+                    "type": "BUS",
+                    "color": "000000",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "914",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "000000",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "914",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "night-bus",
+                            "color": "1E1E1E",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 6
+                    },
+                    "sortOrder": 388
+                },
+                "BKK_0050": {
+                    "id": "BKK_0050",
+                    "shortName": "5",
+                    "description": "R\u00e1kospalota, Kossuth utca | Pasar\u00e9ti t\u00e9r",
+                    "type": "BUS",
+                    "color": "009EE3",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "5",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "009EE3",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "5",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "bus",
+                            "color": "009EE3",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 5
+                    },
+                    "sortOrder": 85
+                },
+                "BKK_F3490": {
+                    "id": "BKK_F3490",
+                    "shortName": "49\u2746",
+                    "description": "Kelenf\u00f6ld vas\u00fat\u00e1llom\u00e1s M | De\u00e1k Ferenc t\u00e9r M",
+                    "type": "TRAM",
+                    "color": "FFD800",
+                    "textColor": "000000",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "49\u2746",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "FFD800",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "49\u2746",
+                            "textColor": "000000"
+                        },
+                        "vehicleIcon": {
+                            "name": "tram",
+                            "color": "FFD800",
+                            "secondaryColor": "000000"
+                        },
+                        "groupId": 3
+                    },
+                    "sortOrder": 38
+                },
+                "BKK_9340": {
+                    "id": "BKK_9340",
+                    "shortName": "934",
+                    "description": "B\u00e9k\u00e1smegyer H | Nyugati p\u00e1lyaudvar M",
+                    "type": "BUS",
+                    "color": "000000",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "934",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "000000",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "934",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "night-bus",
+                            "color": "1E1E1E",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 6
+                    },
+                    "sortOrder": 402
+                },
+                "BKK_9141": {
+                    "id": "BKK_9141",
+                    "shortName": "914A",
+                    "description": "\u00dajpest-k\u00f6zpont M / Hat\u00e1r \u00fat M",
+                    "type": "BUS",
+                    "color": "000000",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "914A",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "000000",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "914A",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "night-bus",
+                            "color": "1E1E1E",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 6
+                    },
+                    "sortOrder": 389
+                },
+                "BKK_F0050": {
+                    "id": "BKK_F0050",
+                    "shortName": "5\u2746",
+                    "description": "R\u00e1kospalota, Kossuth utca | Pasar\u00e9ti t\u00e9r",
+                    "type": "BUS",
+                    "color": "009EE3",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "5\u2746",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "009EE3",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "5\u2746",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "bus",
+                            "color": "009EE3",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 5
+                    },
+                    "sortOrder": 86
+                },
+                "BKK_2102": {
+                    "id": "BKK_2102",
+                    "shortName": "210B",
+                    "description": "Normafa, l\u00e1togat\u00f3k\u00f6zpont / Gy\u00f6ngy\u00f6si utca M",
+                    "type": "BUS",
+                    "color": "009EE3",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "210B",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "009EE3",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "210B",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "bus",
+                            "color": "009EE3",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 5
+                    },
+                    "sortOrder": 292
+                },
+                "BKK_4720": {
+                    "id": "BKK_4720",
+                    "shortName": "72",
+                    "description": "Zugl\u00f3 vas\u00fat\u00e1llom\u00e1s | Orczy t\u00e9r",
+                    "type": "TROLLEYBUS",
+                    "color": "E41F18",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "72",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "E41F18",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "72",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "trolleybus",
+                            "color": "E41F18",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 4
+                    },
+                    "sortOrder": 64
+                },
+                "BKK_1335": {
+                    "id": "BKK_1335",
+                    "shortName": "133E",
+                    "description": "\u00dajpalota, Ny\u00edrpalota \u00fat | Nagyt\u00e9t\u00e9ny, ipartelep",
+                    "type": "BUS",
+                    "color": "009EE3",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "133E",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "009EE3",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "133E",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "bus",
+                            "color": "009EE3",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 5
+                    },
+                    "sortOrder": 219
+                },
+                "BKK_2160": {
+                    "id": "BKK_2160",
+                    "shortName": "216",
+                    "description": "D\u00edsz t\u00e9r | De\u00e1k Ferenc t\u00e9r M",
+                    "type": "BUS",
+                    "color": "009EE3",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "216",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "009EE3",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "216",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "bus",
+                            "color": "009EE3",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 5
+                    },
+                    "sortOrder": 298
+                },
+                "BKK_9311": {
+                    "id": "BKK_9311",
+                    "shortName": "931A",
+                    "description": "De\u00e1k Ferenc t\u00e9r M | \u00d6rs vez\u00e9r tere M H",
+                    "type": "BUS",
+                    "color": "000000",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "931A",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "000000",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "931A",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "night-bus",
+                            "color": "1E1E1E",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 6
+                    },
+                    "sortOrder": 400
+                },
+                "BKK_9310": {
+                    "id": "BKK_9310",
+                    "shortName": "931",
+                    "description": "\u00c1rp\u00e1df\u00f6ld | Nyugati pu. M - Z\u00f6ldm\u00e1l",
+                    "type": "BUS",
+                    "color": "000000",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "931",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "000000",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "931",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "night-bus",
+                            "color": "1E1E1E",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 6
+                    },
+                    "sortOrder": 399
+                },
+                "BKK_9071": {
+                    "id": "BKK_9071",
+                    "shortName": "907A",
+                    "description": "Astoria M | Bosny\u00e1k t\u00e9r",
+                    "type": "BUS",
+                    "color": "000000",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "907A",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "000000",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "907A",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "night-bus",
+                            "color": "1E1E1E",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 6
+                    },
+                    "sortOrder": 383
+                },
+                "BKK_9791": {
+                    "id": "BKK_9791",
+                    "shortName": "979A",
+                    "description": "Csepel, Csillagtelep | De\u00e1k Ferenc t\u00e9r M",
+                    "type": "BUS",
+                    "color": "000000",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "979A",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "000000",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "979A",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "night-bus",
+                            "color": "1E1E1E",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 6
+                    },
+                    "sortOrder": 424
+                },
+                "BKK_3490": {
+                    "id": "BKK_3490",
+                    "shortName": "49",
+                    "description": "Kelenf\u00f6ld vas\u00fat\u00e1llom\u00e1s M | De\u00e1k Ferenc t\u00e9r M",
+                    "type": "TRAM",
+                    "color": "FFD800",
+                    "textColor": "000000",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "49",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "FFD800",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "49",
+                            "textColor": "000000"
+                        },
+                        "vehicleIcon": {
+                            "name": "tram",
+                            "color": "FFD800",
+                            "secondaryColor": "000000"
+                        },
+                        "groupId": 3
+                    },
+                    "sortOrder": 37
+                },
+                "BKK_1070": {
+                    "id": "BKK_1070",
+                    "shortName": "107",
+                    "description": "Infopark - BudaPart | Keleti p\u00e1lyaudvar M",
+                    "type": "BUS",
+                    "color": "009EE3",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "107",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "009EE3",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "107",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "bus",
+                            "color": "009EE3",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 5
+                    },
+                    "sortOrder": 194
+                },
+                "BKK_9790": {
+                    "id": "BKK_9790",
+                    "shortName": "979",
+                    "description": "Csepel, Csillagtelep | \u00dajpalota, Ny\u00edrpalota \u00fat",
+                    "type": "BUS",
+                    "color": "000000",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "979",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "000000",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "979",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "night-bus",
+                            "color": "1E1E1E",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 6
+                    },
+                    "sortOrder": 423
+                },
+                "BKK_9070": {
+                    "id": "BKK_9070",
+                    "shortName": "907",
+                    "description": "\u00d6rs vez\u00e9r tere M H | Kelenf\u00f6ld vas\u00fat\u00e1llom\u00e1s M",
+                    "type": "BUS",
+                    "color": "000000",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "907",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "000000",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "907",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "night-bus",
+                            "color": "1E1E1E",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 6
+                    },
+                    "sortOrder": 382
+                },
+                "BKK_F4720": {
+                    "id": "BKK_F4720",
+                    "shortName": "72\u2746",
+                    "description": "Orczy t\u00e9r / Zugl\u00f3 vas\u00fat\u00e1llom\u00e1s (Hermina \u00fat)",
+                    "type": "TROLLEYBUS",
+                    "color": "E41F18",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "72\u2746",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "E41F18",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "72\u2746",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "trolleybus",
+                            "color": "E41F18",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 4
+                    },
+                    "sortOrder": 65
+                },
+                "BKK_2235": {
+                    "id": "BKK_2235",
+                    "shortName": "223E",
+                    "description": "K\u00e1lvin t\u00e9r M | Gubacsi \u00fat / Hat\u00e1r \u00fat",
+                    "type": "BUS",
+                    "color": "009EE3",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "223E",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "009EE3",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "223E",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "bus",
+                            "color": "009EE3",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 5
+                    },
+                    "sortOrder": 306
+                },
+                "BKK_F1335": {
+                    "id": "BKK_F1335",
+                    "shortName": "133E\u2746",
+                    "description": "\u00dajpalota, Ny\u00edrpalota \u00fat | Nagyt\u00e9t\u00e9ny, ipartelep",
+                    "type": "BUS",
+                    "color": "009EE3",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "133E\u2746",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "009EE3",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "133E\u2746",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "bus",
+                            "color": "009EE3",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 5
+                    },
+                    "sortOrder": 220
+                },
+                "BKK_1085": {
+                    "id": "BKK_1085",
+                    "shortName": "108E",
+                    "description": "\u00dajpalota, Ny\u00edrpalota \u00fat | Gazdagr\u00e9ti t\u00e9r",
+                    "type": "BUS",
+                    "color": "009EE3",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "108E",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "009EE3",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "108E",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "bus",
+                            "color": "009EE3",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 5
+                    },
+                    "sortOrder": 195
+                },
+                "BKK_5200": {
+                    "id": "BKK_5200",
+                    "shortName": "M2",
+                    "description": "\u00d6rs vez\u00e9r tere | D\u00e9li p\u00e1lyaudvar",
+                    "type": "SUBWAY",
+                    "color": "E41F18",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "CIRCLE",
+                    "iconDisplayText": "2",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "E41F18",
+                        "stop": {
+                            "colors": [
+                                "777777"
+                            ],
+                            "type": "PRIORITY",
+                            "image": "route-icon-M2"
+                        },
+                        "icon": {
+                            "type": "CIRCLE",
+                            "text": "2",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "subway"
+                        },
+                        "groupId": 1
+                    },
+                    "sortOrder": 1
+                },
+                "BKK_1120": {
+                    "id": "BKK_1120",
+                    "shortName": "112",
+                    "description": "R\u00e1kospatak u./Cs\u00f6m\u00f6ri \u00fat | Thom\u00e1n Istv\u00e1n utca",
+                    "type": "BUS",
+                    "color": "009EE3",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "112",
+                    "bikesAllowed": true,
+                    "style": {
+                        "color": "009EE3",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "112",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "bus",
+                            "color": "009EE3",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 5
+                    },
+                    "sortOrder": 198
+                },
+                "BKK_5400": {
+                    "id": "BKK_5400",
+                    "shortName": "M4",
+                    "description": "Kelenf\u00f6ld vas\u00fat\u00e1llom\u00e1s | Keleti p\u00e1lyaudvar",
+                    "type": "SUBWAY",
+                    "color": "4CA22F",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "CIRCLE",
+                    "iconDisplayText": "4",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "4CA22F",
+                        "stop": {
+                            "colors": [
+                                "777777"
+                            ],
+                            "type": "PRIORITY",
+                            "image": "route-icon-M4"
+                        },
+                        "icon": {
+                            "type": "CIRCLE",
+                            "text": "4",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "subway"
+                        },
+                        "groupId": 1
+                    },
+                    "sortOrder": 3
+                },
+                "BKK_9161": {
+                    "id": "BKK_9161",
+                    "shortName": "916A",
+                    "description": "De\u00e1k Ferenc t\u00e9r M / Sz\u00e9ll K\u00e1lm\u00e1n t\u00e9r M",
+                    "type": "BUS",
+                    "color": "000000",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "916A",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "000000",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "916A",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "night-bus",
+                            "color": "1E1E1E",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 6
+                    },
+                    "sortOrder": 392
+                },
+                "BKK_9160": {
+                    "id": "BKK_9160",
+                    "shortName": "916",
+                    "description": "Ur\u00e1nia | Sz\u00e9ll K\u00e1lm\u00e1n t\u00e9r M",
+                    "type": "BUS",
+                    "color": "000000",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "916",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "000000",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "916",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "night-bus",
+                            "color": "1E1E1E",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 6
+                    },
+                    "sortOrder": 391
+                },
+                "BKK_F3470": {
+                    "id": "BKK_F3470",
+                    "shortName": "47\u2746",
+                    "description": "V\u00e1rosh\u00e1z t\u00e9r | De\u00e1k Ferenc t\u00e9r M",
+                    "type": "TRAM",
+                    "color": "FFD800",
+                    "textColor": "000000",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "47\u2746",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "FFD800",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "47\u2746",
+                            "textColor": "000000"
+                        },
+                        "vehicleIcon": {
+                            "name": "tram",
+                            "color": "FFD800",
+                            "secondaryColor": "000000"
+                        },
+                        "groupId": 3
+                    },
+                    "sortOrder": 35
+                },
+                "BKK_0150": {
+                    "id": "BKK_0150",
+                    "shortName": "15",
+                    "description": "Gy\u00f6ngy\u00f6si utca M | K\u00e1lvin t\u00e9r M",
+                    "type": "BUS",
+                    "color": "009EE3",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "15",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "009EE3",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "15",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "bus",
+                            "color": "009EE3",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 5
+                    },
+                    "sortOrder": 100
+                },
+                "BKK_9560": {
+                    "id": "BKK_9560",
+                    "shortName": "956",
+                    "description": "P\u00e9cel, Kun J\u00f3zsef utca | M\u00e1riaremete",
+                    "type": "BUS",
+                    "color": "000000",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "956",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "000000",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "956",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "night-bus",
+                            "color": "1E1E1E",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 6
+                    },
+                    "sortOrder": 412
+                },
+                "BKK_0070": {
+                    "id": "BKK_0070",
+                    "shortName": "7",
+                    "description": "\u00dajpalota, Ny\u00edrpalota \u00fat | Albertfalva vas\u00fat\u00e1llom\u00e1s",
+                    "type": "BUS",
+                    "color": "009EE3",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "7",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "009EE3",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "7",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "bus",
+                            "color": "009EE3",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 5
+                    },
+                    "sortOrder": 88
+                },
+                "BKK_9081": {
+                    "id": "BKK_9081",
+                    "shortName": "908A",
+                    "description": "M\u00f3ricz Zsigmond k\u00f6rt\u00e9r M | R\u00e1koskereszt\u00far, v\u00e1roskp.",
+                    "type": "BUS",
+                    "color": "000000",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "908A",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "000000",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "908A",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "night-bus",
+                            "color": "1E1E1E",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 6
+                    },
+                    "sortOrder": 385
+                },
+                "BKK_9080": {
+                    "id": "BKK_9080",
+                    "shortName": "908",
+                    "description": "R.csaba-\u00dajtelep, T\u00f3alm\u00e1s u. | M\u00f3ricz Zs. k\u00f6rt\u00e9r M",
+                    "type": "BUS",
+                    "color": "000000",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "908",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "000000",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "908",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "night-bus",
+                            "color": "1E1E1E",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 6
+                    },
+                    "sortOrder": 384
+                },
+                "BKK_2005": {
+                    "id": "BKK_2005",
+                    "shortName": "200E",
+                    "description": "Cargo City-Liszt F. Airport 2 | K\u0151b\u00e1nya-Kispest M",
+                    "type": "BUS",
+                    "color": "009EE3",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "200E",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "009EE3",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "200E",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "bus",
+                            "color": "009EE3",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 5
+                    },
+                    "sortOrder": 288
+                },
+                "BKK_9731": {
+                    "id": "BKK_9731",
+                    "shortName": "973A",
+                    "description": "R\u00e1kospalota, M\u00c1V-telep | V\u00e1rosh\u00e1z t\u00e9r",
+                    "type": "BUS",
+                    "color": "000000",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "973A",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "000000",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "973A",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "night-bus",
+                            "color": "1E1E1E",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 6
+                    },
+                    "sortOrder": 421
+                },
+                "BKK_3470": {
+                    "id": "BKK_3470",
+                    "shortName": "47",
+                    "description": "V\u00e1rosh\u00e1z t\u00e9r | De\u00e1k Ferenc t\u00e9r M",
+                    "type": "TRAM",
+                    "color": "FFD800",
+                    "textColor": "000000",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "47",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "FFD800",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "47",
+                            "textColor": "000000"
+                        },
+                        "vehicleIcon": {
+                            "name": "tram",
+                            "color": "FFD800",
+                            "secondaryColor": "000000"
+                        },
+                        "groupId": 3
+                    },
+                    "sortOrder": 34
+                },
+                "BKK_9730": {
+                    "id": "BKK_9730",
+                    "shortName": "973",
+                    "description": "\u00dajpalota, Szentmih\u00e1lyi \u00fat | Nagyt\u00e9t\u00e9ny, ipartelep",
+                    "type": "BUS",
+                    "color": "000000",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "973",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "000000",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "973",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "night-bus",
+                            "color": "1E1E1E",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 6
+                    },
+                    "sortOrder": 420
+                },
+                "BKK_1050": {
+                    "id": "BKK_1050",
+                    "shortName": "105",
+                    "description": "Gy\u00f6ngy\u00f6si utca M | Apor Vilmos t\u00e9r",
+                    "type": "BUS",
+                    "color": "009EE3",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "105",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "009EE3",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "105",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "bus",
+                            "color": "009EE3",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 5
+                    },
+                    "sortOrder": 192
+                },
+                "BKK_2100": {
+                    "id": "BKK_2100",
+                    "shortName": "210",
+                    "description": "Gy\u00f6ngy\u00f6si utca M | Sv\u00e1bhegy",
+                    "type": "BUS",
+                    "color": "009EE3",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "210",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "009EE3",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "210",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "bus",
+                            "color": "009EE3",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 5
+                    },
+                    "sortOrder": 291
+                },
+                "BKK_9732": {
+                    "id": "BKK_9732",
+                    "shortName": "973B",
+                    "description": "De\u00e1k Ferenc t\u00e9r M / \u00dajpalota, Szentmih\u00e1lyi \u00fat",
+                    "type": "BUS",
+                    "color": "000000",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "973B",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "000000",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "973B",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "night-bus",
+                            "color": "1E1E1E",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 6
+                    },
+                    "sortOrder": 422
+                },
+                "BKK_0085": {
+                    "id": "BKK_0085",
+                    "shortName": "8E",
+                    "description": "\u00dajpalota, Ny\u00edrpalota \u00fat | Kelenf\u00f6ld vas\u00fat\u00e1llom\u00e1s M",
+                    "type": "BUS",
+                    "color": "009EE3",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "8E",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "009EE3",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "8E",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "bus",
+                            "color": "009EE3",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 5
+                    },
+                    "sortOrder": 92
+                },
+                "BKK_0160": {
+                    "id": "BKK_0160",
+                    "shortName": "16",
+                    "description": "De\u00e1k Ferenc t\u00e9r M | Sz\u00e9ll K\u00e1lm\u00e1n t\u00e9r M",
+                    "type": "BUS",
+                    "color": "009EE3",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "16",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "009EE3",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "16",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "bus",
+                            "color": "009EE3",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 5
+                    },
+                    "sortOrder": 101
+                },
+                "BKK_F0070": {
+                    "id": "BKK_F0070",
+                    "shortName": "7\u2746",
+                    "description": "\u00dajpalota, Ny\u00edrpalota \u00fat | Albertfalva vas\u00fat\u00e1llom\u00e1s",
+                    "type": "BUS",
+                    "color": "009EE3",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "7\u2746",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "009EE3",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "7\u2746",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "bus",
+                            "color": "009EE3",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 5
+                    },
+                    "sortOrder": 91
+                },
+                "BKK_9091": {
+                    "id": "BKK_9091",
+                    "shortName": "909A",
+                    "description": "De\u00e1k Ferenc t\u00e9r M / \u00c9lessarok",
+                    "type": "BUS",
+                    "color": "000000",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "909A",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "000000",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "909A",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "night-bus",
+                            "color": "1E1E1E",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 6
+                    },
+                    "sortOrder": 387
+                },
+                "BKK_9090": {
+                    "id": "BKK_9090",
+                    "shortName": "909",
+                    "description": "Kispest, Kossuth t\u00e9r | De\u00e1k Ferenc t\u00e9r M",
+                    "type": "BUS",
+                    "color": "000000",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "909",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "000000",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "909",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "night-bus",
+                            "color": "1E1E1E",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 6
+                    },
+                    "sortOrder": 386
+                },
+                "BKK_4830": {
+                    "id": "BKK_4830",
+                    "shortName": "83",
+                    "description": "F\u0151v\u00e1m t\u00e9r M | N\u00e9pliget M",
+                    "type": "TROLLEYBUS",
+                    "color": "E41F18",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "83",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "E41F18",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "83",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "trolleybus",
+                            "color": "E41F18",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 4
+                    },
+                    "sortOrder": 81
+                },
+                "BKK_1005": {
+                    "id": "BKK_1005",
+                    "shortName": "100E",
+                    "description": "Liszt Ferenc Airport 2 | De\u00e1k F. t\u00e9r M (City centre)",
+                    "type": "BUS",
+                    "color": "009EE3",
+                    "textColor": "FFFFFF",
+                    "agencyId": "BKK_BKK",
+                    "iconDisplayType": "BOX",
+                    "iconDisplayText": "100E",
+                    "bikesAllowed": false,
+                    "style": {
+                        "color": "009EE3",
+                        "icon": {
+                            "type": "BOX",
+                            "text": "100E",
+                            "textColor": "FFFFFF"
+                        },
+                        "vehicleIcon": {
+                            "name": "bus",
+                            "color": "009EE3",
+                            "secondaryColor": "FFFFFF"
+                        },
+                        "groupId": 5
+                    },
+                    "sortOrder": 186
+                }
+            },
+            "stops": {
+                "BKK_089517": {
+                    "id": "BKK_089517",
+                    "vertex": "BKK:BKK_089517",
+                    "lat": 47.494145,
+                    "lon": 19.060146,
+                    "name": "Astoria M",
+                    "localityName": "1088",
+                    "code": "F01013",
+                    "direction": "-20",
+                    "description": "659717",
+                    "locationType": 0,
+                    "locationSubType": "merged",
+                    "parentStationId": "BKK_MERGED_F01013",
+                    "type": "BUS",
+                    "wheelchairBoarding": true,
+                    "routeIds": [
+                        "BKK_3470",
+                        "BKK_F3470",
+                        "BKK_3480",
+                        "BKK_3490",
+                        "BKK_F3490",
+                        "BKK_4720",
+                        "BKK_F4720",
+                        "BKK_0090",
+                        "BKK_1005"
+                    ],
+                    "stopColorType": "BUS",
+                    "style": {
+                        "colors": [
+                            "FFD800",
+                            "009EE3",
+                            "E41F18"
+                        ]
+                    }
+                },
+                "BKK_CS011732": {
+                    "id": "BKK_CS011732",
+                    "vertex": "BKK:BKK_CS011732",
+                    "lat": 47.497898,
+                    "lon": 19.054306,
+                    "name": "De\u00e1k Ferenc t\u00e9r",
+                    "localityName": "1051",
+                    "code": "CS011732",
+                    "direction": "",
+                    "description": "}v{`Hi{hsBPBLLHTBXCXiCxOGRMNODO?yH_COKKSEW@YDWb@iADIhAeBDGrFiFVIbB?",
+                    "locationType": 1,
+                    "locationSubType": "stop-area",
+                    "wheelchairBoarding": false,
+                    "routeIds": [
+                        "BKK_5100",
+                        "BKK_5200",
+                        "BKK_5300",
+                        "BKK_3470",
+                        "BKK_F3470",
+                        "BKK_3480",
+                        "BKK_3490",
+                        "BKK_F3490",
+                        "BKK_4720",
+                        "BKK_F4720",
+                        "BKK_0090",
+                        "BKK_0160",
+                        "BKK_1005",
+                        "BKK_1050",
+                        "BKK_1780",
+                        "BKK_2100",
+                        "BKK_2102",
+                        "BKK_2160",
+                        "BKK_9090",
+                        "BKK_9091",
+                        "BKK_9140",
+                        "BKK_9141",
+                        "BKK_9160",
+                        "BKK_9161",
+                        "BKK_9310",
+                        "BKK_9311",
+                        "BKK_9340",
+                        "BKK_9500",
+                        "BKK_9501",
+                        "BKK_9732",
+                        "BKK_9790",
+                        "BKK_9791",
+                        "BKK_9900"
+                    ],
+                    "stopColorType": "BUS",
+                    "style": {
+                        "colors": [
+                            "FFD800",
+                            "005CA5",
+                            "E41F18",
+                            "000000",
+                            "009EE3"
+                        ],
+                        "type": "PRIORITY",
+                        "image": "stop-icon-M1"
+                    }
+                },
+                "BKK_CSF01019": {
+                    "id": "BKK_CSF01019",
+                    "vertex": "BKK:BKK_CSF01019",
+                    "lat": 47.494347,
+                    "lon": 19.060706,
+                    "name": "Astoria",
+                    "localityName": "1088",
+                    "code": "CSF01019",
+                    "direction": "",
+                    "description": "ca{`HcvisBFT@XEXIROJwDvAS@QIMSG[s@gP?WFWJQLIP?NFJPlFnM",
+                    "locationType": 1,
+                    "locationSubType": "stop-area",
+                    "wheelchairBoarding": false,
+                    "routeIds": [
+                        "BKK_5200",
+                        "BKK_3470",
+                        "BKK_F3470",
+                        "BKK_3480",
+                        "BKK_3490",
+                        "BKK_F3490",
+                        "BKK_4720",
+                        "BKK_F4720",
+                        "BKK_0050",
+                        "BKK_F0050",
+                        "BKK_0070",
+                        "BKK_F0070",
+                        "BKK_0085",
+                        "BKK_0090",
+                        "BKK_1005",
+                        "BKK_1070",
+                        "BKK_1085",
+                        "BKK_1100",
+                        "BKK_1120",
+                        "BKK_1335",
+                        "BKK_F1335",
+                        "BKK_9070",
+                        "BKK_9071",
+                        "BKK_9080",
+                        "BKK_9081",
+                        "BKK_9090",
+                        "BKK_9091",
+                        "BKK_9140",
+                        "BKK_9141",
+                        "BKK_9160",
+                        "BKK_9310",
+                        "BKK_9311",
+                        "BKK_9340",
+                        "BKK_9500",
+                        "BKK_9501",
+                        "BKK_9560",
+                        "BKK_9730",
+                        "BKK_9731",
+                        "BKK_9732",
+                        "BKK_9790",
+                        "BKK_9791",
+                        "BKK_9900"
+                    ],
+                    "stopColorType": "BUS",
+                    "style": {
+                        "colors": [
+                            "FFD800",
+                            "E41F18",
+                            "000000",
+                            "009EE3"
+                        ],
+                        "type": "PRIORITY",
+                        "image": "stop-icon-M2"
+                    }
+                },
+                "BKK_MERGED_F01013": {
+                    "id": "BKK_MERGED_F01013",
+                    "vertex": "BKK:BKK_MERGED_F01013",
+                    "lat": 47.494145,
+                    "lon": 19.060146,
+                    "name": "Astoria M",
+                    "localityName": "1088",
+                    "code": "F01013",
+                    "direction": "-20",
+                    "locationType": 1,
+                    "locationSubType": "stop",
+                    "parentStationId": "BKK_CSF01019",
+                    "wheelchairBoarding": true,
+                    "routeIds": [
+                        "BKK_3470",
+                        "BKK_F3470",
+                        "BKK_3480",
+                        "BKK_3490",
+                        "BKK_F3490",
+                        "BKK_4720",
+                        "BKK_F4720",
+                        "BKK_0090",
+                        "BKK_1005"
+                    ],
+                    "stopColorType": "BUS",
+                    "style": {
+                        "colors": [
+                            "FFD800",
+                            "009EE3",
+                            "E41F18"
+                        ]
+                    }
+                },
+                "BKK_CS089515": {
+                    "id": "BKK_CS089515",
+                    "vertex": "BKK:BKK_CS089515",
+                    "lat": 47.489468,
+                    "lon": 19.061682,
+                    "name": "K\u00e1lvin t\u00e9r",
+                    "localityName": "1092",
+                    "code": "CS089515",
+                    "direction": "",
+                    "description": "scz`HeojsBNINANFLNFT@X]`REZKTQJ{GjAS?OKKUwAsFEU?WDUJQpK{L",
+                    "locationType": 1,
+                    "locationSubType": "stop-area",
+                    "wheelchairBoarding": false,
+                    "routeIds": [
+                        "BKK_5300",
+                        "BKK_5400",
+                        "BKK_3470",
+                        "BKK_F3470",
+                        "BKK_3480",
+                        "BKK_3490",
+                        "BKK_F3490",
+                        "BKK_4720",
+                        "BKK_F4720",
+                        "BKK_4830",
+                        "BKK_0090",
+                        "BKK_0150",
+                        "BKK_1005",
+                        "BKK_2235",
+                        "BKK_9090",
+                        "BKK_9091",
+                        "BKK_9140",
+                        "BKK_9141",
+                        "BKK_9340",
+                        "BKK_9500",
+                        "BKK_9501",
+                        "BKK_9790",
+                        "BKK_9791"
+                    ],
+                    "stopColorType": "BUS",
+                    "style": {
+                        "colors": [
+                            "000000"
+                        ],
+                        "type": "PRIORITY",
+                        "image": "stop-icon-M3"
+                    }
+                },
+                "BKK_009309": {
+                    "id": "BKK_009309",
+                    "vertex": "BKK:BKK_009309",
+                    "lat": 47.497449,
+                    "lon": 19.055715,
+                    "name": "De\u00e1k Ferenc t\u00e9r M",
+                    "localityName": "1075",
+                    "code": "009309",
+                    "direction": "-54",
+                    "description": "510267",
+                    "locationType": 0,
+                    "parentStationId": "BKK_CS011732",
+                    "type": "TROLLEYBUS",
+                    "wheelchairBoarding": true,
+                    "routeIds": [
+                        "BKK_4720",
+                        "BKK_F4720",
+                        "BKK_0090",
+                        "BKK_1005",
+                        "BKK_9140",
+                        "BKK_9141",
+                        "BKK_9160",
+                        "BKK_9310",
+                        "BKK_9340",
+                        "BKK_9500",
+                        "BKK_9501",
+                        "BKK_9732",
+                        "BKK_9790",
+                        "BKK_9791",
+                        "BKK_9900"
+                    ],
+                    "stopColorType": "BUS",
+                    "style": {
+                        "colors": [
+                            "000000",
+                            "009EE3",
+                            "E41F18"
+                        ]
+                    }
+                },
+                "BKK_CS102119": {
+                    "id": "BKK_CS102119",
+                    "vertex": "BKK:BKK_CS102119",
+                    "lat": 47.428522,
+                    "lon": 19.264289,
+                    "name": "Liszt Ferenc Airport 2, t\u00e1rol\u00f3t\u00e9r",
+                    "localityName": "2220",
+                    "code": "CS102119",
+                    "direction": "",
+                    "description": "gkn`H}rqtBNDLLHTBXCXITMLODQEMMIUCYBYHULMPE",
+                    "locationType": 1,
+                    "locationSubType": "stop-area",
+                    "wheelchairBoarding": false,
+                    "routeIds": [],
+                    "stopColorType": "BUS",
+                    "style": {
+                        "colors": [
+                            "777777"
+                        ]
+                    }
+                },
+                "BKK_094505": {
+                    "id": "BKK_094505",
+                    "vertex": "BKK:BKK_094505",
+                    "lat": 47.432703,
+                    "lon": 19.261165,
+                    "name": "Liszt Ferenc Airport 2",
+                    "localityName": "1185",
+                    "code": "094505",
+                    "direction": "-117",
+                    "description": "669691",
+                    "locationType": 0,
+                    "parentStationId": "BKK_CSF04599",
+                    "type": "BUS",
+                    "wheelchairBoarding": true,
+                    "routeIds": [],
+                    "stopColorType": "BUS",
+                    "style": {
+                        "colors": [
+                            "009EE3"
+                        ]
+                    }
+                },
+                "BKK_089515": {
+                    "id": "BKK_089515",
+                    "vertex": "BKK:BKK_089515",
+                    "lat": 47.490613,
+                    "lon": 19.061858,
+                    "name": "K\u00e1lvin t\u00e9r M",
+                    "localityName": "1088",
+                    "code": "089515",
+                    "direction": "-28",
+                    "description": "659713",
+                    "locationType": 0,
+                    "parentStationId": "BKK_CS089515",
+                    "type": "BUS",
+                    "wheelchairBoarding": true,
+                    "routeIds": [
+                        "BKK_1005"
+                    ],
+                    "stopColorType": "BUS",
+                    "style": {
+                        "colors": [
+                            "009EE3"
+                        ]
+                    }
+                },
+                "BKK_102119": {
+                    "id": "BKK_102119",
+                    "vertex": "BKK:BKK_102119",
+                    "lat": 47.428522,
+                    "lon": 19.264289,
+                    "name": "Liszt Ferenc Airport 2, t\u00e1rol\u00f3t\u00e9r",
+                    "localityName": "2220",
+                    "code": "102119",
+                    "direction": "0",
+                    "description": "684919",
+                    "locationType": 0,
+                    "parentStationId": "BKK_CS102119",
+                    "type": "BUS",
+                    "wheelchairBoarding": true,
+                    "routeIds": [],
+                    "stopColorType": "BUS",
+                    "style": {
+                        "colors": [
+                            "777777"
+                        ]
+                    }
+                },
+                "BKK_CSF04599": {
+                    "id": "BKK_CSF04599",
+                    "vertex": "BKK:BKK_CSF04599",
+                    "lat": 47.432779,
+                    "lon": 19.261271,
+                    "name": "Liszt Ferenc Airport 2",
+                    "localityName": "1185",
+                    "code": "CSF04599",
+                    "direction": "",
+                    "description": "qco`H{_qtBLHJRDT?XEVKPOHm@PM@OEKKe@s@ISCY?WHWJOPGN@tAb@",
+                    "locationType": 1,
+                    "locationSubType": "stop-area",
+                    "wheelchairBoarding": false,
+                    "routeIds": [
+                        "BKK_1005",
+                        "BKK_2005"
+                    ],
+                    "stopColorType": "BUS",
+                    "style": {
+                        "colors": [
+                            "009EE3",
+                            "F9AB13"
+                        ]
+                    }
+                }
+            },
+            "trips": {
+                "BKK_D078975839": {
+                    "id": "BKK_D078975839",
+                    "routeId": "BKK_1005",
+                    "shapeId": "BKK_D078975839",
+                    "blockId": "D07897_1960_64_4",
+                    "tripHeadsign": "Liszt Ferenc Airport 2",
+                    "serviceId": "BKK_D07897AHHKMP-011",
+                    "directionId": "0",
+                    "bikesAllowed": false,
+                    "wheelchairAccessible": true
+                },
+                "BKK_D078975905": {
+                    "id": "BKK_D078975905",
+                    "routeId": "BKK_1005",
+                    "shapeId": "BKK_D078975905",
+                    "blockId": "D07897_1005_58_12",
+                    "tripHeadsign": "Liszt Ferenc Airport 2",
+                    "serviceId": "BKK_D07897AHHKMP-011",
+                    "directionId": "0",
+                    "bikesAllowed": false,
+                    "wheelchairAccessible": true
+                },
+                "BKK_D078975706": {
+                    "id": "BKK_D078975706",
+                    "routeId": "BKK_1005",
+                    "shapeId": "BKK_D078975706",
+                    "blockId": "D07897_0205_71_7",
+                    "tripHeadsign": "De\u00e1k F. t\u00e9r M (City centre)",
+                    "serviceId": "BKK_D07897AHHKMP-011",
+                    "directionId": "1",
+                    "bikesAllowed": false,
+                    "wheelchairAccessible": true
+                },
+                "BKK_RVY604-jUuBvUMXTIOTb3jVnJmJFA": {
+                    "id": "BKK_RVY604-jUuBvUMXTIOTb3jVnJmJFA",
+                    "routeId": "BKK_1005",
+                    "shapeId": "BKK_RVY604-jUuBvUMXTIOTb3jVnJmJFA",
+                    "tripHeadsign": "De\u00e1k Ferenc t\u00e9r M",
+                    "serviceId": "BKK_ADDED-SERVICE-ServiceIdDate(2025-12-15)",
+                    "bikesAllowed": false,
+                    "wheelchairAccessible": true
+                },
+                "BKK_D078975697": {
+                    "id": "BKK_D078975697",
+                    "routeId": "BKK_1005",
+                    "shapeId": "BKK_D078975697",
+                    "blockId": "D07897_1005_52_15",
+                    "tripHeadsign": "De\u00e1k F. t\u00e9r M (City centre)",
+                    "serviceId": "BKK_D07897AHHKMP-011",
+                    "directionId": "1",
+                    "bikesAllowed": false,
+                    "wheelchairAccessible": true
+                },
+                "BKK_D078977643": {
+                    "id": "BKK_D078977643",
+                    "routeId": "BKK_1005",
+                    "shapeId": "BKK_D078977643",
+                    "blockId": "D07897_1005_56_14",
+                    "tripHeadsign": "Liszt Ferenc Airport 2",
+                    "serviceId": "BKK_D07897AHHKMP-011",
+                    "directionId": "0",
+                    "bikesAllowed": false,
+                    "wheelchairAccessible": true
+                },
+                "BKK_D078975721": {
+                    "id": "BKK_D078975721",
+                    "routeId": "BKK_1005",
+                    "shapeId": "BKK_D078975721",
+                    "blockId": "D07897_0205_75_5",
+                    "tripHeadsign": "De\u00e1k F. t\u00e9r M (City centre)",
+                    "serviceId": "BKK_D07897AHHKMP-011",
+                    "directionId": "1",
+                    "bikesAllowed": false,
+                    "wheelchairAccessible": true
+                },
+                "BKK_D078977655": {
+                    "id": "BKK_D078977655",
+                    "routeId": "BKK_1005",
+                    "shapeId": "BKK_D078977655",
+                    "blockId": "D07897_1005_82_22",
+                    "tripHeadsign": "Liszt Ferenc Airport 2",
+                    "serviceId": "BKK_D07897AHHKMP-011",
+                    "directionId": "0",
+                    "bikesAllowed": false,
+                    "wheelchairAccessible": true
+                },
+                "BKK_D078975712": {
+                    "id": "BKK_D078975712",
+                    "routeId": "BKK_1005",
+                    "shapeId": "BKK_D078975712",
+                    "blockId": "D07897_1005_55_19",
+                    "tripHeadsign": "De\u00e1k F. t\u00e9r M (City centre)",
+                    "serviceId": "BKK_D07897AHHKMP-011",
+                    "directionId": "1",
+                    "bikesAllowed": false,
+                    "wheelchairAccessible": true
+                },
+                "BKK_D078975811": {
+                    "id": "BKK_D078975811",
+                    "routeId": "BKK_1005",
+                    "shapeId": "BKK_D078975811",
+                    "blockId": "D07897_1005_59_1",
+                    "tripHeadsign": "De\u00e1k F. t\u00e9r M (City centre)",
+                    "serviceId": "BKK_D07897AHHKMP-011",
+                    "directionId": "1",
+                    "bikesAllowed": false,
+                    "wheelchairAccessible": true
+                },
+                "BKK_D078977658": {
+                    "id": "BKK_D078977658",
+                    "routeId": "BKK_1005",
+                    "shapeId": "BKK_D078977658",
+                    "blockId": "D07897_1005_83_22",
+                    "tripHeadsign": "Liszt Ferenc Airport 2",
+                    "serviceId": "BKK_D07897AHHKMP-011",
+                    "directionId": "0",
+                    "bikesAllowed": false,
+                    "wheelchairAccessible": true
+                },
+                "BKK_D078975824": {
+                    "id": "BKK_D078975824",
+                    "routeId": "BKK_1005",
+                    "shapeId": "BKK_D078975824",
+                    "blockId": "D07897_0205_72_6",
+                    "tripHeadsign": "Liszt Ferenc Airport 2",
+                    "serviceId": "BKK_D07897AHHKMP-011",
+                    "directionId": "0",
+                    "bikesAllowed": false,
+                    "wheelchairAccessible": true
+                },
+                "BKK_D078975703": {
+                    "id": "BKK_D078975703",
+                    "routeId": "BKK_1005",
+                    "shapeId": "BKK_D078975703",
+                    "blockId": "D07897_0205_74_5",
+                    "tripHeadsign": "De\u00e1k F. t\u00e9r M (City centre)",
+                    "serviceId": "BKK_D07897AHHKMP-011",
+                    "directionId": "1",
+                    "bikesAllowed": false,
+                    "wheelchairAccessible": true
+                },
+                "BKK_D078975724": {
+                    "id": "BKK_D078975724",
+                    "routeId": "BKK_1005",
+                    "shapeId": "BKK_D078975724",
+                    "blockId": "D07897_1005_81_23",
+                    "tripHeadsign": "De\u00e1k F. t\u00e9r M (City centre)",
+                    "serviceId": "BKK_D07897AHHKMP-011",
+                    "directionId": "1",
+                    "bikesAllowed": false,
+                    "wheelchairAccessible": true
+                },
+                "BKK_D078977664": {
+                    "id": "BKK_D078977664",
+                    "routeId": "BKK_1005",
+                    "shapeId": "BKK_D078977664",
+                    "blockId": "D07897_1005_53_18",
+                    "tripHeadsign": "Liszt Ferenc Airport 2",
+                    "serviceId": "BKK_D07897AHHKMP-011",
+                    "directionId": "0",
+                    "bikesAllowed": false,
+                    "wheelchairAccessible": true
+                },
+                "BKK_D078977661": {
+                    "id": "BKK_D078977661",
+                    "routeId": "BKK_1005",
+                    "shapeId": "BKK_D078977661",
+                    "blockId": "D07897_0205_73_6",
+                    "tripHeadsign": "Liszt Ferenc Airport 2",
+                    "serviceId": "BKK_D07897AHHKMP-011",
+                    "directionId": "0",
+                    "bikesAllowed": false,
+                    "wheelchairAccessible": true
+                }
+            },
+            "alerts": {}
+        },
+        "class": "listWithReferences"
+    }
+}

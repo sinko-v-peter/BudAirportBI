@@ -1,0 +1,1 @@
+EXEC dw.usp_BuildAgg_Transit_15m @DaysBack = 14;
